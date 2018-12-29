@@ -17,7 +17,7 @@ The most common localization technique used is based on measuring the intensity 
 
 Location Services on Windows 10 are enabled by default, and can be easly hacked, compromizing the privacy.
 
-WinLocation is a payload that can explore devices with Location Services enabled, grabbing the geolocation storaged and send it to the attacker.
+WinLocation is a payload that can explore devices with Location Services enabled, grabbing the geolocation stored and send it to the attacker.
 
 Disabling location tracking:
 
