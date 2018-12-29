@@ -5,7 +5,9 @@
 
 Win exe file to grab Geolocation from Location Service on Windows 10 and send it to attacker.
 
-#### About thi Tool:
+![wl](https://user-images.githubusercontent.com/34893261/50538741-31fb6800-0b5b-11e9-9cf2-f3bbb5f30dd4.png)
+
+#### About this tool:
 
 Your laptop or desktop doesn't have GPS capability, nevertheless, Windows 10 can figure out where you are. How? Using Wi-Fi positioning (as well as your device's Internet Protocol (IP) address). The results are pretty accurate.
 
